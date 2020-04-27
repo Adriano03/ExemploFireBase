@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "exemplofirebase-2fc29": {
+      "hosting": {
+        "ExemploFirebase": [
+          "exemplofirebase-2fc29"
+        ]
+      }
+    }
+  }
+}
